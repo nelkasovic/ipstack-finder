@@ -1,6 +1,6 @@
 {
     "name": "nelkasovic/ipstack-finder",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "",
     "keywords": [
         "nelkasovic",
@@ -19,7 +19,7 @@
     "require": {
         "php": "^8.0",
         "laravel/framework": "^8.37|^9.0",
-        "guzzlehttp/guzzle": "~6.0",
+        "guzzlehttp/guzzle": "~7.0",
         "ext-json": "*"
     },
     "require-dev": {
