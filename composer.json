@@ -1,24 +1,24 @@
 {
-    "name": "arimolzer/ipstack-finder",
-    "version": "1.0.4",
+    "name": "nelkasovic/ipstack-finder",
+    "version": "1.0.0",
     "description": "",
     "keywords": [
-        "arimolzer",
+        "nelkasovic",
         "ipstack-finder"
     ],
-    "homepage": "https://github.com/arimolzer/ipstack-finder",
+    "homepage": "https://github.com/nelkasovic/ipstack-finder",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Ari Molzer",
-            "email": "ari.molzer@molzertech.com",
+            "name": "Nermin Elkasovic",
+            "email": "nermin.elkas@gmail.com",
             "role": "Developer"
         }
     ],
     "require": {
-        "php": "^7.1",
-        "illuminate/support": "~5.5|^6|^7",
+        "php": "^8.0",
+        "illuminate/support": "^7",
         "guzzlehttp/guzzle": "~6.0",
         "ext-json": "*"
     },
