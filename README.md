@@ -1,18 +1,18 @@
 # A laravel facade for the ipstack.com API
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/arimolzer/ipstack-finder.svg?style=flat-square)](https://packagist.org/packages/arimolzer/ipstack-finder)
-[![Build Status](https://img.shields.io/travis/arimolzer/ipstack-finder/master.svg?style=flat-square)](https://travis-ci.org/arimolzer/ipstack-finder)
-[![Quality Score](https://img.shields.io/scrutinizer/g/arimolzer/ipstack-finder.svg?style=flat-square)](https://scrutinizer-ci.com/g/arimolzer/ipstack-finder)
-[![Total Downloads](https://img.shields.io/packagist/dt/arimolzer/ipstack-finder.svg?style=flat-square)](https://packagist.org/packages/arimolzer/ipstack-finder)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/nelkasovic/ipstack-finder.svg?style=flat-square)](https://packagist.org/packages/arimolzer/ipstack-finder)
+[![Build Status](https://img.shields.io/travis/nelkasovic/ipstack-finder/master.svg?style=flat-square)](https://travis-ci.org/arimolzer/ipstack-finder)
+[![Quality Score](https://img.shields.io/scrutinizer/g/nelkasovic/ipstack-finder.svg?style=flat-square)](https://scrutinizer-ci.com/g/arimolzer/ipstack-finder)
+[![Total Downloads](https://img.shields.io/packagist/dt/nelkasovic/ipstack-finder.svg?style=flat-square)](https://packagist.org/packages/nelkasovic/ipstack-finder)
 
-This Laravel 5.8 package provides a simple to use facade to request data from the [ipstack.com](https://ipstack.com) geolocation API. 
+This Laravel package provides a simple to use facade to request data from the [ipstack.com](https://ipstack.com) geolocation API. 
 
 ## Installation
 
 You can install the package via composer:
 
 ```bash
-composer require arimolzer/ipstack-finder
+composer require nelkasovic/ipstack-finder
 ```
 
 The package will be immediately available thanks to Laravel auto discovery.
